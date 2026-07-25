@@ -67,7 +67,7 @@ Full-Stack Developer passionate about building scalable web applications, SaaS p
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yasirarafaat1&theme=onedark&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yasirarafaat1&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
