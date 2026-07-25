@@ -52,7 +52,6 @@ Full-Stack Developer passionate about building scalable web applications, SaaS p
 - 🌍 Portfolio: https://yasirarafaat.akamify.com
 - 💼 LinkedIn: https://linkedin.com/in/yasirarafaat1
 - 📧 Email: mailforyasir@gmail.com
-- 📺 YouTube: https://youtube.com/@webcodex
 
 ---
 
